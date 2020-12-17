@@ -11,7 +11,7 @@
 	scanf("%f",&f);
 	printf(" Ingrese la superficie ");
 	scanf("%f",&s);
-	pre (f,s);
+	pres(f,s);
 	}
 
 	void pres(float f, float s){
